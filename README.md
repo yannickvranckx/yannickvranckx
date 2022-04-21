@@ -2,7 +2,8 @@
 
 - I am currently exploring Terraform for the network and Public Cloud space
 - I run projects including AWS, Azure and Cisco ACI
-- Still exploring Git and GitHub
+- I am still learning Git and Github
+- I try to include automation into everything I do
 
 <!---
 yannickvranckx/yannickvranckx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
